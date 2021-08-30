@@ -5,7 +5,7 @@ import time
 
 # n = int(input("enter numbers count : "))
 # numbers = input("enter numbers seprated with space : ")
-numbers_list = [i for i in range(1,2000)]
+numbers_list = [i for i in range(1,10000)]
 # for i in numbers.split(" "):
 #     numbers_list.append(int(i))
 

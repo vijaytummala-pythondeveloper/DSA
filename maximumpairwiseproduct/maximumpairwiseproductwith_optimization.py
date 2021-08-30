@@ -6,7 +6,7 @@
 # print(numbers_list)
 import time
 
-numbers_list = [i for i in range(1,2000)]
+numbers_list = [i for i in range(1,10000)]
 begin = time.time()
 bignum = 0
 for i in numbers_list:
