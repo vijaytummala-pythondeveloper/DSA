@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f588fb-c5ec-4a2a-9390-08197580c9b0" name="Default Changelist" comment="running with more inputs">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maximumpairwiseproduct/stresstest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maximumpairwiseproduct/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproduct_withoutoptimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproduct_withoutoptimization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproductwith_optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproductwith_optimization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximumpairwiseproduct/stresstest.py" beforeDir="false" afterPath="$PROJECT_DIR$/maximumpairwiseproduct/stresstest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,9 +168,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.stresstest" />
+        <item itemvalue="Python.maximumpairwiseproductwith_optimization" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.maximumpairwiseproduct_withoutoptimization (1)" />
-        <item itemvalue="Python.maximumpairwiseproductwith_optimization" />
         <item itemvalue="Python.maximumpairwiseproduct_withoutoptimization (1)" />
       </list>
     </recent_temporary>
@@ -200,38 +197,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1630325006918" />
-    <state width="1259" height="396" key="GridCell.Tab.0.bottom" timestamp="1630326859957">
+    <state width="1259" height="428" key="GridCell.Tab.0.bottom" timestamp="1630329506623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="396" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630326859957" />
-    <state width="1259" height="396" key="GridCell.Tab.0.center" timestamp="1630326859957">
+    <state width="1259" height="428" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630329506623" />
+    <state width="1259" height="428" key="GridCell.Tab.0.center" timestamp="1630329506623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="396" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630326859957" />
-    <state width="1259" height="396" key="GridCell.Tab.0.left" timestamp="1630326859957">
+    <state width="1259" height="428" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630329506623" />
+    <state width="1259" height="428" key="GridCell.Tab.0.left" timestamp="1630329506623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="396" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630326859957" />
-    <state width="1259" height="396" key="GridCell.Tab.0.right" timestamp="1630326859957">
+    <state width="1259" height="428" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630329506623" />
+    <state width="1259" height="428" key="GridCell.Tab.0.right" timestamp="1630329506623">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="396" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630326859957" />
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1630313775667">
+    <state width="1259" height="428" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630329506623" />
+    <state width="1259" height="143" key="GridCell.Tab.1.bottom" timestamp="1630329418312">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630313775667" />
-    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1630313775667">
+    <state width="1259" height="143" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630329418312" />
+    <state width="1259" height="143" key="GridCell.Tab.1.center" timestamp="1630329418312">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1630313775667" />
-    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1630313775667">
+    <state width="1259" height="143" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1630329418312" />
+    <state width="1259" height="143" key="GridCell.Tab.1.left" timestamp="1630329418312">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1630313775667" />
-    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1630313775667">
+    <state width="1259" height="143" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1630329418312" />
+    <state width="1259" height="143" key="GridCell.Tab.1.right" timestamp="1630329418312">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1630313775667" />
+    <state width="1259" height="143" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1630329418312" />
     <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1630324822310">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -240,5 +237,16 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1630325342663" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproductwith_optimization.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

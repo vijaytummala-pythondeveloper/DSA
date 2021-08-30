@@ -1,15 +1,18 @@
 import random
 def max_pairwise_product_fast(numbers_list):
-    bignum = 0
-    for i in numbers_list:
-        if i > bignum:
-            bignum = i
-    secondbig = 0
-    for i in numbers_list:
-        if i != bignum and i > secondbig:
-            secondbig = i
+    bignum_index = 0
+    for i in range(0, len(numbers_list)):
+        if numbers_list[i] > numbers_list[bignum_index]:
+            bignum_index = i
 
-    return bignum * secondbig
+    secondbig_index = 0
+    secondbig = 0
+    for i in range(0, len(numbers_list)):
+        if i != bignum_index and numbers_list[i] >= secondbig:
+            secondbig_index = i
+            secondbig = numbers_list[i]
+
+    return numbers_list[bignum_index] * numbers_list[secondbig_index]
 
 
 def max_pairwise_product(numbers_list):
@@ -36,6 +39,11 @@ while True:
         count = count+1
         if fast != result:
             print("not ok")
+            for i  in a:
+                print(i,end=' ')
+            print('----------------fast : ',fast,'--------notfast0 : ', result)
             break
         else:
+            for i  in a:
+                print(i,end=' ')
             print(fast, result, "OK",count)
