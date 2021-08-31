@@ -30,8 +30,8 @@ fast = 0
 count = 0
 while True:
     if __name__ == '__main__':
-        n = (random.randint(2, 11))
-        a = list(random.randint(0, 99999) for r in range(n))
+        n = (random.randint(2, 101))
+        a = list(random.randint(0, 999999) for r in range(n))
         assert (len(a) == n)
         result = max_pairwise_product(a)
 
