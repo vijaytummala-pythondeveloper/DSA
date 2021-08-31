@@ -37,7 +37,28 @@
       <recent name="E:\DSA\maximumpairwiseproduct" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci-using-recurrsion">
+  <component name="RunManager" selected="Python.NavieGCD">
+    <configuration name="NavieGCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GreatestCommonDivisor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GreatestCommonDivisor/NavieGCD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fibonacci-nth-formulae" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximumpairwiseproductwith_optimization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maximumpairwiseproduct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fibonnaci-Series" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproductwith_optimization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonnaci-Series/fibonacci_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,34 +143,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maximumpairwiseproduct" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximumpairwiseproduct/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fibonacci-using-recurrsion" />
+        <item itemvalue="Python.NavieGCD" />
         <item itemvalue="Python.fibonacci-nth-formulae" />
+        <item itemvalue="Python.fibonacci_list" />
+        <item itemvalue="Python.fibonacci-using-recurrsion" />
         <item itemvalue="Python.stresstest" />
-        <item itemvalue="Python.maximumpairwiseproductwith_optimization" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +175,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1630325006918" />
-    <state width="1259" height="184" key="GridCell.Tab.0.bottom" timestamp="1630411618365">
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom" timestamp="1630415357318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630411618365" />
-    <state width="1259" height="184" key="GridCell.Tab.0.center" timestamp="1630411618365">
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630415357318" />
+    <state width="1259" height="205" key="GridCell.Tab.0.center" timestamp="1630415357318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630411618365" />
-    <state width="1259" height="184" key="GridCell.Tab.0.left" timestamp="1630411618365">
+    <state width="1259" height="205" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630415357318" />
+    <state width="1259" height="205" key="GridCell.Tab.0.left" timestamp="1630415357318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630411618365" />
-    <state width="1259" height="184" key="GridCell.Tab.0.right" timestamp="1630411618365">
+    <state width="1259" height="205" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630415357318" />
+    <state width="1259" height="205" key="GridCell.Tab.0.right" timestamp="1630415357318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630411618365" />
+    <state width="1259" height="205" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630415357318" />
     <state width="1259" height="143" key="GridCell.Tab.1.bottom" timestamp="1630331076422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
