@@ -5,3 +5,5 @@ def nth_fibonacci_number(n):
     )
     )
 
+res = nth_fibonacci_number(20)
+print(res)
