@@ -6,4 +6,4 @@ def NaiveGcd(a,b):
 
     return best
 
-print(NaiveGcd(300,150))
+print(NaiveGcd(323582235,82758273))
