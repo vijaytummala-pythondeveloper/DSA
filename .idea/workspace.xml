@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57f588fb-c5ec-4a2a-9390-08197580c9b0" name="Default Changelist" comment="running with more inputs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="57f588fb-c5ec-4a2a-9390-08197580c9b0" name="Default Changelist" comment="running with more inputs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
       <recent name="E:\DSA\maximumpairwiseproduct" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.logn">
+  <component name="RunManager" selected="Python.logn-iterative">
     <configuration name="EculidianGCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logn-iterative" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fibonnaci-Series" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/complexities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonnaci-Series/fibonacci_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complexities/logn-iterative.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logn-iterative" />
         <item itemvalue="Python.logn" />
         <item itemvalue="Python.EculidianGCD" />
         <item itemvalue="Python.NavieGCD" />
         <item itemvalue="Python.fibonacci-nth-formulae" />
-        <item itemvalue="Python.fibonacci_list" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +173,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1630325006918" />
-    <state width="1259" height="110" key="GridCell.Tab.0.bottom" timestamp="1631517226654">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1631517747760">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="110" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631517226654" />
-    <state width="1259" height="110" key="GridCell.Tab.0.center" timestamp="1631517226654">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631517747760" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1631517747760">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="110" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631517226654" />
-    <state width="1259" height="110" key="GridCell.Tab.0.left" timestamp="1631517226654">
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631517747760" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1631517747760">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="110" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631517226654" />
-    <state width="1259" height="110" key="GridCell.Tab.0.right" timestamp="1631517226654">
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631517747760" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1631517747760">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="110" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631517226654" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631517747760" />
     <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1631517183121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -223,11 +221,6 @@
           <url>file://$PROJECT_DIR$/maximumpairwiseproduct/maximumpairwiseproductwith_optimization.py</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/complexities/logn.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
