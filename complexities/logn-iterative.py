@@ -3,4 +3,4 @@ def logn(n):
         n = n // 2
         print(n)
 
-logn(32)
+logn(2)
